@@ -7,3 +7,4 @@ maven-cucumber-jvm-selenium-grid-java-hub-node
 4. Run the selenium hub bat file 
 5. Run the selenium chrome node bat file and firefox node bat file
 Your Selenium hub node configuration is ready!
+6. Double click the 'Open-Grid-Console-In-Browser.bat' file to see the grid console in browser
